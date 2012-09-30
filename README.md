@@ -1,4 +1,4 @@
 trubly
 ======
 
-trubybubbly - an experment
+trubybubbly - an experiment
